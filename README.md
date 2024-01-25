@@ -4,7 +4,7 @@ In addition to coding, I thrive in collaborative settings and value teamwork. Wh
 
 I'm eager to connect with fellow enthusiasts, exchange ideas, and embark on exciting projects together. Let's team up and create something extraordinary! 🚀
 
-[![abouhmad's 42 stats](https://badge.mediaplus.ma/Darkgray/abouhmad)](https://github.com/oakoudad/badge42)
+[![abouhmad's 42 stats](https://badge.mediaplus.ma/Black/abouhmad)](https://github.com/oakoudad/badge42)
 
 <!--
 **ghostbhd/ghostbhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
