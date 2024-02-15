@@ -1,3 +1,4 @@
+# ghostbhd
 Hey there! 👋 I'm passionate about crafting captivating websites with React.js. My focus is on designing interfaces that are not just user-friendly but also visually striking. With a talent for selecting vibrant colors, I enjoy bringing projects to life and making a lasting impact.
 
 In addition to coding, I thrive in collaborative settings and value teamwork. When I'm not at my computer, you can often find me exploring the great outdoors or experimenting with new recipes in the kitchen.
