@@ -1,7 +1,7 @@
-# ghostbhd
-Hey there! 👋 I'm passionate about crafting captivating websites with React.js. My focus is on designing interfaces that are not just user-friendly but also visually striking. With a talent for selecting vibrant colors, I enjoy bringing projects to life and making a lasting impact.
+# GhostBhd
+Hey there! 👋 I'm a **front-end developer**, **UI designer**, and **software engineer** who's passionate about crafting captivating websites with **React.js**. With a focus on designing interfaces that are not just user-friendly but also visually striking, I bring projects to life with a talent for selecting vibrant colors.
 
-In addition to coding, I thrive in collaborative settings and value teamwork. When I'm not at my computer, you can often find me exploring the great outdoors or experimenting with new recipes in the kitchen.
+In addition to my coding skills, I thrive in **collaborative** settings and value teamwork. Outside of coding, you'll often find me exploring the great outdoors or experimenting with new recipes in the kitchen.
 
 I'm eager to connect with fellow enthusiasts, exchange ideas, and embark on exciting projects together. Let's team up and create something extraordinary! 🚀
 
