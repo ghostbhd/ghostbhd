@@ -1,21 +1,20 @@
-# GhostBhd
-Hey there! 👋 I'm a **front-end developer**, **UI designer**, and **software engineer** who's passionate about crafting captivating websites with **React.js**. With a focus on designing interfaces that are not just user-friendly but also visually striking, I bring projects to life with a talent for selecting vibrant colors.
+**Hi there! 👋**  
+I'm **Anass Bouhmad**, a passionate **Front-End Developer** and **UI/UX Designer** with a knack for crafting scalable, user-first digital solutions. I specialize in building intuitive web applications and solving complex challenges using technologies like **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.  
 
-In addition to my coding skills, I thrive in **collaborative** settings and value teamwork. Outside of coding, you'll often find me exploring the great outdoors or experimenting with new recipes in the kitchen.
+### **What I Do**  
+- 🛠️ **Build Scalable Applications**: From government platforms to educational tools, I design and develop systems that handle thousands of users efficiently.  
+- 🎨 **Design User-Centered Interfaces**: As a UI/UX designer, I create seamless and visually engaging experiences using tools like **Figma** and **Adobe XD**.  
+- 🚀 **Optimize Performance**: I enjoy diving into performance bottlenecks, achieving improvements of up to 80% in application workflows.  
 
-I'm eager to connect with fellow enthusiasts, exchange ideas, and embark on exciting projects together. Let's team up and create something extraordinary! 🚀
+### **Highlights of My Work**  
+- **Exam Paper Editor**: Developed a collaborative platform for 53,000 teachers using Next.js and Redux.  
+- **Digital Credentials Platform**: Revamped a system accessed by over 500,000 users to enhance usability and scalability.  
+- **Freelance Projects**: Designed web interfaces for companies in renewable energy and education, increasing user engagement by up to 30%.  
 
-<!--
-**ghostbhd/ghostbhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Tech Stack**  
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Sass  
+- **Frameworks**: Next.js, React, Redux  
+- **Tools**: Git, GitHub, Figma, Adobe XD, PDFKit  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Let’s Collaborate!**  
+I’m always looking to contribute to exciting projects, especially in **education tech**, **SaaS**, and **user-focused platforms**. Feel free to check out my repositories or reach out for a collaboration!  
